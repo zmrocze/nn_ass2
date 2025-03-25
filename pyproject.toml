@@ -1,0 +1,18 @@
+[project]
+name = "adm_class_zmrocze"
+version = "2020.0.0"
+# description = "Lovely Spam! Wonderful Spam!"
+# readme = "README.rst"
+requires-python = ">=3.8"
+# license = {file = "LICENSE.txt"}
+
+dependencies = [
+  "ipython",
+  "ipykernel",
+  "matplotlib",
+  "numpy",
+  "torch",
+  "torchvision",
+  "tqdm",
+  
+]
