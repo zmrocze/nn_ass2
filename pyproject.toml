@@ -14,5 +14,8 @@ dependencies = [
   "torch",
   "torchvision",
   "tqdm",
-  
+  "optuna",
+  "optuna-dashboard",
+  "optuna-fast-fanova",
+  "gunicorn",
 ]
